@@ -1,3 +1,11 @@
+# 1.2.5 (Unreleased)
+
+## New features
+
+- New LoadingService to manage loading status.
+  Global loading status is now robust on parallel requests.
+  [Thomas Desvenain]
+
 # 1.2.4 (2017-10-11)
 
 ## New features
@@ -13,13 +21,13 @@
 
 ## Bug fixes
 
-- fix error handling 
+- fix error handling
 
 # 1.2.2 (2017-09-29)
 
 ## Bug fixes
 
-- fix error handling 
+- fix error handling
 
 # 1.2.1 (2017-09-29)
 
